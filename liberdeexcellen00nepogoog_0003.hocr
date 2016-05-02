@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberdeexcellen00nepogoog_0003.png"; bbox 0 0 706 1058; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 110 563 504">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 110 563 504">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 110 563 504; baseline 0 554"><span class='ocrx_word' id='word_1_1' title='bbox 113 110 563 504; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 200 525 468 553">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 525 468 553">
+     <span class='ocr_line' id='line_1_2' title="bbox 200 525 468 553; baseline -0.026 -3"><span class='ocrx_word' id='word_1_2' title='bbox 200 530 288 553; x_wconf 49' lang='lat' dir='ltr'>&amp;atham</span> <span class='ocrx_word' id='word_1_3' title='bbox 301 527 376 551; x_wconf 57' lang='lat' dir='ltr'><strong>anunm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 388 525 468 548; x_wconf 53' lang='lat' dir='ltr'>astutam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 218 582 459 727">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 218 582 459 727">
+     <span class='ocr_line' id='line_1_3' title="bbox 218 582 459 727; baseline -0.017 -25"><span class='ocrx_word' id='word_1_5' title='bbox 218 582 459 727; x_wconf 42' lang='lat'>&amp;2325</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 233 752 448 800">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 233 752 448 800">
+     <span class='ocr_line' id='line_1_4' title="bbox 233 752 448 800; baseline -0.009 -21"><span class='ocrx_word' id='word_1_6' title='bbox 233 761 270 786; x_wconf 63' lang='lat' dir='ltr'>„ga</span> <span class='ocrx_word' id='word_1_7' title='bbox 279 752 301 800; x_wconf 56' lang='lat' dir='ltr'><em>y</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 306 768 363 784; x_wconf 53' lang='lat' dir='ltr'><em>«suess</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 381 754 448 779; x_wconf 56' lang='lat' dir='ltr'>(fus.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
